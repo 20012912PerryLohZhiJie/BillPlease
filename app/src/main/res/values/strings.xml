@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name = "SVC">Bill Please</string>
+    <string name ="GST">Bill Please</string>
+    <string name = "BillTotal">Bill Please</string>
+    <string name = "EachPays">Bill Please</string>
+    <string name = "split">Bill Please</string>
+    <string name ="reset">Bill Please</string>
+
+
+
+</resources>
